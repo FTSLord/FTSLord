@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @FTSLord
-- 👀 I’m interested in scratch, python , HTML , Minecraft(Java).
-- 🌱 I’m currently learning python and HTML.
-- 📫 You can reach me by youprance@gmail.com / futurestarlord@qq.com
